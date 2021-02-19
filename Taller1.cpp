@@ -2,7 +2,7 @@
 # include <stdio.h>
 
 usigng namespace std;
-
+loca
 
 struc
 
