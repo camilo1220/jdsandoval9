@@ -4,7 +4,7 @@
 usigng namespace std;
 loca
 
-struc
+structurs
 
 
 
